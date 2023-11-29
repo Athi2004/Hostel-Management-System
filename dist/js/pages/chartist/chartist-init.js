@@ -35,7 +35,7 @@ new Chartist.Line('.ct-area-ln-chart', {
   ],
   showArea: true
 });
-
+//dfjbgjhbdfbjgfdbihjgdfiugdfuidfbjhb
 // ct-polar-chart
 new Chartist.Line('#ct-polar-chart', {
   labels: [1, 2, 3, 4, 5, 6, 7, 8],
